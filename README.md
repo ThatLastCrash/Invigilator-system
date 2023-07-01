@@ -1,6 +1,6 @@
 # 基于眼球追踪以及人脸姿态估计的监考系统
 
-声明：本项目基于https://github.com/enpeizhao/CVprojects进行了一定的修改得到
+声明：本项目基于https://github.com/enpeizhao/CVprojects 进行了一定的修改得到
 
 #### 一、功能：
 
